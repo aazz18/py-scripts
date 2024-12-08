@@ -1,2 +1,4 @@
 # py-scripts
-A collection of Python scripts that I have created for myself, they might be useful for you!
+### Welcome! 👋
+Hello, you have wandered upon this repository!
+This repository contains a collection of Python scripts that I have created for myself that may be useful for you!
